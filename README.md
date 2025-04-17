@@ -1,8 +1,9 @@
 
-I'm Kamal Yadav, a seasoned professional with over 12 years of experience across diverse domains. My expertise lies in Microsoft SQL Server and Microsoft's suite of products, including SSIS, SSAS, SSRS, and Power BI. 
-This portfolio showcases my proficiency in data visualization, business intelligence, and analytics through various Power BI projects.**
+I'm Kamal Yadav, a seasoned professional with over 13 years of experience across diverse domains. My expertise lies in Microsoft SQL Server and Microsoft's suite of products, including SSIS, SSAS, SSRS, and Power BI. 
+This portfolio showcases my proficiency in data visualization, business intelligence, and analytics through various Power BI projects.
 
-![image](https://github.com/kamaly0624/Power-BI-Portfolio/assets/145849475/94b26f6b-e364-40ea-802d-688c6fa62188)
+![image](https://github.com/user-attachments/assets/c4822a9b-1dce-4965-aade-dd5df9529a99)
+
 
 
 
